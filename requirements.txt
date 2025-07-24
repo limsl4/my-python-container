@@ -1,1 +1,46 @@
+# HTTP requests & APIs
 requests
+httpx
+urllib3
+
+# Data processing & manipulation
+pandas
+numpy
+
+# JSON and YAML parsing
+PyYAML
+jsonschema
+
+# Web frameworks (if needed)
+flask
+fastapi
+
+# Authentication and security
+python-jose
+cryptography
+
+# Async & concurrency
+aiohttp
+asyncio
+
+# Logging & monitoring
+loguru
+
+# Environment variable management
+python-dotenv
+
+# CLI tools
+click
+
+# Testing
+pytest
+pytest-cov
+
+# Misc utilities
+python-dateutil
+six
+
+# Database clients (add as needed)
+psycopg2-binary  # PostgreSQL
+mysql-connector-python
+sqlalchemy
